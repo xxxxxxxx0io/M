@@ -1,0 +1,33 @@
+{
+    "name": "Yahya",
+    "description": "User bot for telegram !",
+    "stack": "container",
+    "logo": "https://graph.org/file/e3b78a4080a56697f05bd.jpg",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "env": {
+        "API_ID": {
+            "description": "ايبي ايدي",
+            "value": "",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "ايبي هاش",
+            "value": "",
+            "required": true
+        },
+        "OWNER": {
+            "description": "ايـدي الـمـطور",
+            "value": "",
+            "required": true
+        },
+        "yahya": {
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+    }
+  }
+} 
